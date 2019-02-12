@@ -1,2 +1,2 @@
 # Memory-Game-v1
-Memory game made with JavaScript, HTML, and CSS
+Card-Matching memory game made with JavaScript, HTML, and CSS. Have fun!
